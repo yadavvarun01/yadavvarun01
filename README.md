@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yadavvarun01
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning BCA 
+- 👀  I’m currently Frontend Developer
+- 🌱 I’m currently learning Html java css python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email id
 - 😄 Pronouns: ...
